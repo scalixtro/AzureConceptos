@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="styles.css">
-<h1>Summer Cloud &mdash; <i style="font-style: bold;">Cloud Surfers 🏄☀️</i> <p style="font-size: 7px;">Grupo 2</p></h1>
-<hr>
+<center><h1>Summer Cloud &mdash; <i style="font-style: bold;">Cloud Surfers 🏄☀️</i></h1></center>
 <h3>Reto 1. Máster</h3>
 
 ## Tabla de contenido
