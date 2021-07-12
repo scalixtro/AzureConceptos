@@ -35,3 +35,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+<a href="https://imgur.com/t17UR1I"><img src="https://i.imgur.com/t17UR1I.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/l0gStqt"><img src="https://i.imgur.com/l0gStqt.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/Ud5P5Ds"><img src="https://i.imgur.com/Ud5P5Ds.jpg" title="source: imgur.com" /></a>
