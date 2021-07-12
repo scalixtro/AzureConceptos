@@ -83,7 +83,7 @@
 ### Big Data
 ### DevOps
 		
-## Regiones, zonas de disponibilidad y par de regiones.
+## Regiones, zonas de disponibilidad y par de regiones
 		
 ## Recursos y grupos de recursos
 		
