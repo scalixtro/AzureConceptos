@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="styles.css">
-<h1>Reto 1. Máster</h1>
+<h1>Summer Cloud &mdash; <i style="font-style: bold;">Cloud Surfers 🏄☀️</i> <p style="font-size: 7px;">Grupo 2</p></h1>
+<hr>
+<h3>Reto 1. Máster</h3>
 
 ## Tabla de contenido
 - [Virtualización](#Virtualización)
