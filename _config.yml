@@ -22,26 +22,7 @@ theme_settings:
   # Icons
   rss: false
   email_address: # Full email address, e.g. "sam@example.com"
-  behance:
-  bitbucket:
-  dribbble:
-  facebook:
-  flickr:
-  gitlab:
   github: "rohanchandra/type-theme"
-  gitter:
-  google_plus:
-  instagram:
-  linkedin:  # Full URL
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
-  twitter:
-  wordpress:
-  youtube:
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
@@ -68,18 +49,11 @@ theme_settings:
   # Post navigation
   post_navigation: false
 
-# PAGINATION
-paginate: 5
-paginate_path: "blog/page:num"
+# # PAGINATION
+# paginate: 5
+# paginate_path: "blog/page:num"
 
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: :compressed
-plugins: [jekyll-paginate]
-exclude:
-  - Gemfile
-  - Gemfile.lock
 
