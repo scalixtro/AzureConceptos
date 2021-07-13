@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Sample post
+title:  Ventajas y consideraciones relativas de la nube
 tags: [test, sample]
 ---
-Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
+- Alta disponibilidad: con base en el contrato de nivel de servicio (SLA), las aplicaciones en la nube proporcionan servicio continuo sin tiempo de inactividad perceptible, aunque se produzcan errores.
+- Escalabilidad: existen dos opciones vertical y horizontalmente:
+  o	Verticalmente: Se refiere a aumentar la capacidad de proceso ya sea mediante la RAM o CPU en una máquina virtual.
+  o	Horizontalmente: Sirve para incrementar la capacidad de proceso mediante la adición de instancias de recursos, por ejemplo, incorporando máquinas virtuales a la configuración.
+- Elasticidad: puede configurar aplicaciones mediante autoescalado, de forma que las aplicaciones siempre disponen de los recursos que necesitan.
 
-* Consectetur adipiscing elit
-* Donec a diam lectus
-* Sed sit amet ipsum mauris
 
 Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
 
