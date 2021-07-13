@@ -6,7 +6,7 @@ url: "https://scalixtro.github.io/"
 theme_settings:
   # Meta
   title: Cloud Surfers
-  avatar: <a href="https://imgur.com/dNYe0HS"><img src="https://i.imgur.com/dNYe0HS.png" title="source: imgur.com" /></a>
+  avatar: https://i.imgur.com/dNYe0HS.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
