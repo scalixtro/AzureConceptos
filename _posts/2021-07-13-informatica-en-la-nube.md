@@ -3,7 +3,6 @@ layout: post
 title: Informática en la nube
 ---
 
-# Informática en la nube
 La informática en la nube es la entrega de servicios informáticos a través de internet; esto significa que hay centros de datos que contienen computadoras, redes, almacenamiento y
 otros equipos que los usuarios utilizan a través de la red pública de internet. Los servicios ofrecidos incluyen:
 
