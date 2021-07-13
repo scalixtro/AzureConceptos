@@ -6,7 +6,7 @@ url: "https://scalixtro.github.io/"
 theme_settings:
   # Meta
   title: Cloud Surfers
-  avatar: <a href="https://imgur.com/n6hV34U"><img src="https://i.imgur.com/n6hV34U.png" title="source: imgur.com" width="100" height="100"/></a>
+  avatar: 
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "Summer Cloud (Acordeón)" # used by search engines
