@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  Ventajas y consideraciones relativas a la nube
-tags: [test, sample]
+feature-img: "https://i.imgur.com/5VOICIC.png"
 ---
+
 - **Alta disponibilidad:** con base en el contrato de nivel de servicio (SLA), las aplicaciones en la nube proporcionan servicio continuo sin tiempo de inactividad perceptible, aunque se produzcan errores.
 <div align="center"><img src="https://i.imgur.com/Ix1AuDs.png" title="source: imgur.com" width="250" height="250"/></div>
 
