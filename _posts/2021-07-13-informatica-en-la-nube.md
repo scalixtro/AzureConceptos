@@ -21,7 +21,5 @@ para poder ejecutar el recurso que se solicita.
 
 ## Hipervisor
 
-Para que se pueda dividir el hardware de forma adecuada se utiliza un software especial denominado **hipervisor** el cual se encarga de *dividir* el hardware para que el recurso
-sólo utilice lo necesario.
-
+Para que se pueda dividir el hardware de forma adecuada se utiliza un software especial denominado **hipervisor** el cual se encarga de asignar a los recursos el hardware que van a utilizar.
 ![Hipervisor](https://i.imgur.com/xL8R0QO.png)
