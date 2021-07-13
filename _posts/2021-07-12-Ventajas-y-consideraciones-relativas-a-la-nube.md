@@ -1,4 +1,3 @@
-2021-07-12-Ventajas y consideraciones relativas de la nube.md
 ---
 layout: post
 title:  Ventajas y consideraciones relativas a la nube
