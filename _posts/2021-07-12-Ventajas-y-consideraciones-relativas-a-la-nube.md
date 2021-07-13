@@ -4,16 +4,16 @@ title:  Ventajas y consideraciones relativas a la nube
 tags: [test, sample]
 ---
 - **Alta disponibilidad:** con base en el contrato de nivel de servicio (SLA), las aplicaciones en la nube proporcionan servicio continuo sin tiempo de inactividad perceptible, aunque se produzcan errores.
-<div align="center"><href="https://imgur.com/Ix1AuDs"><img src="https://i.imgur.com/Ix1AuDs.png" title="source: imgur.com" width="250" height="250"/></div>
+<div align="center"><img src="https://i.imgur.com/Ix1AuDs.png" title="source: imgur.com" width="250" height="250"/></div>
 
 - **Escalabilidad:** existen dos opciones vertical y horizontalmente:
    - Verticalmente: Se refiere a aumentar la capacidad de proceso ya sea mediante la RAM o CPU en una máquina virtual.
   
-  <div align="center"><href="https://imgur.com/9LTYpZH"><img src="https://i.imgur.com/9LTYpZH.png" title="source: imgur.com"  width="220" height="220"/></div>
+  <div align="center"><img src="https://i.imgur.com/9LTYpZH.png" title="source: imgur.com"  width="220" height="220"/></div>
   
      - Horizontalmente: Sirve para incrementar la capacidad de proceso mediante la adición de instancias de recursos, por ejemplo, incorporando máquinas virtuales a la configuración.
     
-    <div align="center"><a href="https://imgur.com/8eGYX5g"><img src="https://i.imgur.com/8eGYX5g.png" title="source: imgur.com"  width="220" height="220"/></div>
+    <div align="center"><img src="https://i.imgur.com/8eGYX5g.png" title="source: imgur.com"  width="220" height="220"/></div>
    
     
 - Elasticidad: puede configurar aplicaciones mediante autoescalado, de forma que las aplicaciones siempre disponen de los recursos que necesitan.
