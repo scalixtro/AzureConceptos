@@ -1,7 +1,7 @@
 2021-07-12-Ventajas y consideraciones relativas de la nube.md
 ---
 layout: post
-title:  Ventajas y consideraciones relativas de la nube
+title:  Ventajas y consideraciones relativas a la nube
 tags: [test, sample]
 ---
 - Alta disponibilidad: con base en el contrato de nivel de servicio (SLA), las aplicaciones en la nube proporcionan servicio continuo sin tiempo de inactividad perceptible, aunque se produzcan errores.
