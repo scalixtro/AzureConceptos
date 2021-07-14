@@ -29,5 +29,5 @@ En este caso el proveedor administra todos los aspectos del entorno de la aplica
 <div align="center"><img src="https://i.imgur.com/PDCMYWB.png" title="source: imgur.com" width="739.2" height="550"/></div>
 
 # Comparación de modelos de servicio en la nube
-<div align="center"><img src="https://i.imgur.com/HhQU1G2.png" title="source: imgur.com" /></div>
+<div align="center"><img src="https://i.imgur.com/jBV6wV0.png" title="source: imgur.com" /></div>
 
