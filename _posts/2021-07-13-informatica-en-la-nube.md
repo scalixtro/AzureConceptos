@@ -15,11 +15,10 @@ otros equipos que los usuarios utilizan a través de la red pública de internet
 * Inteligencia
 
 # Virtualización
-En Azure se utiliza un proceso conocido como **virtualización**. En pocas palabras la vritualización es utilizar software para replicar la funcionalidad de hardware o *recursos* de
-una computadora como almacenamiento, servidores, redes o sistemas operativos. Este proceso se lleva a cabo dentro de los centros de datos para sólo utilizar el hardware necesario
-para poder ejecutar el recurso que se solicita. 
+En Azure se utiliza un proceso conocido como **virtualización**. En pocas palabras la vritualización es utilizar software para replicar la funcionalidad de hardware o *recursos* de una computadora como almacenamiento, servidores, redes o sistemas operativos. Este proceso se lleva a cabo dentro de los centros de datos donde cada recurso utiliza sólo el hardware necesario para su correcto funcionamiento. 
 
 ## Hipervisor
 
-Para que se pueda dividir el hardware de forma adecuada se utiliza un software especial denominado **hipervisor** el cual se encarga de asignar a los recursos el hardware que van a utilizar.
+Para que se pueda segmentar el hardware de forma adecuada se utiliza un software especial denominado **hipervisor** el cual se encarga de *dividirlo* para que cada recurso emplee sólo lo necesario, y así aprovecharlo al máximo.
+
 ![Hipervisor](https://i.imgur.com/xL8R0QO.png)
