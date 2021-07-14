@@ -16,19 +16,18 @@ Es análogo a la administración de servidores físicos. Se hace cargo del mante
 
 # **2. PaaS (Plataforma como servicio):** 
 Es un entorno de hospedaje administrado. El proveedor se encarga de administrar las máquinas virtuales y los recursos, mientras el usuario o inquilino implementa sus aplicaciones en el entorno de hospedaje administrado. Un ejemplo es Azure App Services donde los desarrolladores pueden cargar sus aplicaciones web sin preocuparse por los requerimientos físicos de hardware y software.
-
-<div align="center"><img src="https://i.imgur.com/mXSE6eT.png" title="source: imgur.com" width="250" height="250"/></div>
+  <div align="center"><img src="https://i.imgur.com/mXSE6eT.png" title="source: imgur.com" width="250" height="250"/></div>
 
 ### Ventajas y Desventajas:
   <div align="center"><img src="https://i.imgur.com/RTLY56n.png" title="source: imgur.com" width="749.2" height="540"/></div>
 
 # **3. SaaS (Software como servicio):** 
 En este caso el proveedor administra todos los aspectos del entorno de la aplicación, como máquinas virtuales, recursos de red, el almacenamiento de datos y las aplicaciones; mientras el usuario proporciona sus datos a la aplicación. Por ejemplo, Microsoft Office 365 proporciona una versión totalmente operativa que se ejecuta en la nube, donde solo se crea el contenido, y Office 365 se encarga del resto.
-<div align="center"><img src="https://i.imgur.com/yYolXol.png" title="source: imgur.com"width="250" height="250"/></div>
+  <div align="center"><img src="https://i.imgur.com/yYolXol.png" title="source: imgur.com"width="250" height="250"/></div>
 
 ### Ventajas y Desventajas:
 <div align="center"><img src="https://i.imgur.com/PDCMYWB.png" title="source: imgur.com" width="739.2" height="550"/></div>
 
 # Comparación de modelos de servicio en la nube
-<div align="center"><img src="https://i.imgur.com/PDCMYWB.png" title="source: imgur.com" width="739.2" height="550"/></div>
+<div align="center"><img src="https://i.imgur.com/HhQU1G2.png" title="source: imgur.com" /></div>
 
